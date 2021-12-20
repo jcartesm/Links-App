@@ -4,4 +4,6 @@
 
 Para Iniciar el proyecto:
 
+- Crear base de datos como se indica
+
 ### `npm start`
